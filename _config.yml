@@ -1,0 +1,14 @@
+# Site settings
+title: Survey methodology and latent variables
+email: daniel.oberski+blog@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Not sure how to deal with uncertainty? 
+  Everything you always wanted to know about latent variables
+  but couldn't because they were unobserved. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://surveymethodology.eu" # the base hostname & protocol for your site
+twitter_username: DanielOberski
+github_username:  daob
+
+# Build settings
+markdown: kramdown
